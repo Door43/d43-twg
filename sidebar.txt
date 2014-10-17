@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[twg:home|Door43 (twg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-twg|d43-twg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-twg/archive/master.zip|d43-twg.zip]]
+
+**Recent Changes**
+{{changes>ns = twg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/twg|Ethnologue data]]
+
